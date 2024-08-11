@@ -85,7 +85,7 @@ extern "C" {
 	}
 
 
-	/* abstruct kind types */
+	/* abstract kind types */
 
 	DEFINE_KIND(k_ByteArray);
 
